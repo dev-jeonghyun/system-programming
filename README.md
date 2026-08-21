@@ -9,5 +9,5 @@
   * CSAPP `mdriver` 벤치마크 평가 결과: **메모리 효율 및 처리 속도 점수 55점 -> 92점으로 개선**
 * **저수준 파일 I/O 및 프로세스 제어**: UNIX 시스템 콜 기반 I/O 리다이렉션 및 프로세스 라이프사이클 관리
 
-### 🛠 Tech Stack
+### Tech Stack
 * C, GDB, Valgrind, Linux/UNIX Environment
